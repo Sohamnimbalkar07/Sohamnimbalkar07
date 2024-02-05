@@ -16,17 +16,14 @@
   <a href="https://leetcode.com/Soham__n/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sohamnimbalkar07" height="30" width="40" />
   </a>
-  <!-- Replace the Geeks for Geeks link with your desired link for Hibernate -->
-  <a href="https://example.com/hibernate" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/your-hibernate-icon.png" alt="Your Hibernate Link" height="30" width="40"/>
-  </a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="PLSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
