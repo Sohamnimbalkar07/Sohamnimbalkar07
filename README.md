@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Soham Nimbalkar 👋</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sohamnimbalkar07&label=Profile%20views&color=0e75b6&style=flat" alt="Sohamnimbalkar07" /> </p>
 
@@ -16,8 +16,9 @@
   <a href="https://leetcode.com/Soham__n/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sohamnimbalkar07" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/sohamnimbalkar07" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="Sohamnimbalkar07" height="30" width="40" />
+  <!-- Replace the Geeks for Geeks link with your desired link for Hibernate -->
+  <a href="https://example.com/hibernate" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/your-hibernate-icon.png" alt="Your Hibernate Link" height="30" width="40"/>
   </a>
 </p>
 
