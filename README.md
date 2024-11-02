@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sohamnimbalkar07" alt="Sohamnimbalkar07" /></a> </p>
 
 - 💬 Ask me about **Java | Spring Boot | Hibernate | MySQL | PLSQL | MongoDB | ReactJS | HTML | CSS | JavaScript**
-- 📫 How to reach me: [sohamnimbalkar07@gmail.com](mailto:sohamnimbalkar07@gmail.com)
+<!-- - 📫 How to reach me: [sohamnimbalkar07@gmail.com](mailto:sohamnimbalkar07@gmail.com) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
